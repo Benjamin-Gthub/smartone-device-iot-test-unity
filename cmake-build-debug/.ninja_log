@@ -1,0 +1,14 @@
+# ninja log v6
+26	150	7564249255348314	CMakeFiles/c_test.dir/main.c.obj	3b85853d7f698cb0
+151	307	7564249256588752	c_test.exe	2d6d027a063fbe47
+26	107	7562554918095074	CMakeFiles/c_test.dir/src/operations.c.obj	15fdc6a761474603
+80	552	7564248579183169	CMakeFiles/c_test.dir/tests/test_operations.c.obj	7711b00be3efdf00
+28	466	7566635225635152	build.ninja	c8d9d4bbcbf9bacf
+21	212	7562558166694979	CMakeFiles/c_test.dir/tests/unity.c.obj	98f66fb499f3af0d
+91	612	7564248579293164	CMakeFiles/c_test.dir/shared/task_schedule.c.obj	efe3ef52872012cc
+103	607	7564248579413166	CMakeFiles/c_test.dir/tests/test_task_schedule.c.obj	83a37794b69134d2
+6	120	7566716814255161	CMakeFiles/c_test.dir/tests/test_operations.c.obj	7711b00be3efdf00
+12	134	7566716814315267	CMakeFiles/c_test.dir/shared/search_next_schedule.c.obj	ecc62e061ae1adc3
+16	172	7566716814359415	CMakeFiles/c_test.dir/tests/test_search_next_schedule.c.obj	9d04964be9f5f4cf
+6	133	7566718652133247	CMakeFiles/c_test.dir/tests/test_search_next_schedule.c.obj	9d04964be9f5f4cf
+134	267	7566718653397641	c_test.exe	ac2274e70c426ac4
